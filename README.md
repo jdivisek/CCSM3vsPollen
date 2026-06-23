@@ -2,11 +2,11 @@
 
 The R codes provided here compare downscaled and debiased [CCSM3 simulations](https://github.com/jdivisek/DownscalingCCSM3) with:
 
-1.  Proxy-inferred temperature and precipitation reconstructions from the [Temperature 12k database](https://lipdverse.org/project/temp12k/) (Kaufman et al. 2020)
+1.  proxy-inferred temperature and precipitation reconstructions from the [Temperature 12k database](https://lipdverse.org/project/temp12k/) (Kaufman et al. 2020)
 
-2.  CCSM3 simulations from the [CHELSA-TraCE21k-centennial-bioclim](https://www.chelsa-climate.org/datasets/chelsa-trace21k-centennial-bioclim) (Karger et al. 2023) and PaleoClim database (Brown et al. 2018)
+2.  CCSM3 simulations of BIOCLIM variables from the [CHELSA-TraCE21k-centennial-bioclim](https://www.chelsa-climate.org/datasets/chelsa-trace21k-centennial-bioclim) (Karger et al. 2023) and PaleoClim database (Brown et al. 2018)
 
-3.  Simulations of three different GCMs from the [ENVIREM database](https://envirem.github.io/) (Title & Bemmels, 2018)
+3.  simulations of ENVIREM variables from three different GCMs in the [ENVIREM database](https://envirem.github.io/) (Title & Bemmels, 2018)
 
 **References**
 
